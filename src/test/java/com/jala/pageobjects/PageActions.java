@@ -63,7 +63,5 @@ public class PageActions extends PageObjects {
 
 	}
 	
-	
-	
 
 }
