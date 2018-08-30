@@ -1,3 +1,5 @@
+package com.jala.concepts;
+
 public class Armstrong{
 
     public static void main(String[] args) {
